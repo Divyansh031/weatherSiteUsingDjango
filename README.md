@@ -33,18 +33,21 @@ The project fetches real-time weather data using the **OpenWeather API** and pro
 
 ## 🔧 Installation & Setup
 
-### 1️⃣ **Clone the Repository**
 ```bash
+
+1️⃣ **Clone the Repository**
 git clone https://github.com/Divyansh031/weatherSiteUsingDjango.git
 cd weatherSiteUsingDjango
-2️⃣ Create a Virtual Environment (Recommended)
 
+2️⃣ Create a Virtual Environment (Recommended)
 
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+
 3️⃣ Install Dependencies
 
 pip install -r requirements.txt
+
 4️⃣ Set Up API Key
 
 
